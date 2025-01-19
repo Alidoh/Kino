@@ -1,0 +1,16 @@
+C:\Users\vitek\Desktop\Kino\Kino\bin\Debug\net8.0-windows\Kino.exe
+C:\Users\vitek\Desktop\Kino\Kino\bin\Debug\net8.0-windows\Kino.deps.json
+C:\Users\vitek\Desktop\Kino\Kino\bin\Debug\net8.0-windows\Kino.runtimeconfig.json
+C:\Users\vitek\Desktop\Kino\Kino\bin\Debug\net8.0-windows\Kino.dll
+C:\Users\vitek\Desktop\Kino\Kino\bin\Debug\net8.0-windows\Kino.pdb
+C:\Users\vitek\Desktop\Kino\Kino\obj\Debug\net8.0-windows\Kino.Form1.resources
+C:\Users\vitek\Desktop\Kino\Kino\obj\Debug\net8.0-windows\Kino.csproj.GenerateResource.cache
+C:\Users\vitek\Desktop\Kino\Kino\obj\Debug\net8.0-windows\Kino.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vitek\Desktop\Kino\Kino\obj\Debug\net8.0-windows\Kino.AssemblyInfoInputs.cache
+C:\Users\vitek\Desktop\Kino\Kino\obj\Debug\net8.0-windows\Kino.AssemblyInfo.cs
+C:\Users\vitek\Desktop\Kino\Kino\obj\Debug\net8.0-windows\Kino.csproj.CoreCompileInputs.cache
+C:\Users\vitek\Desktop\Kino\Kino\obj\Debug\net8.0-windows\Kino.dll
+C:\Users\vitek\Desktop\Kino\Kino\obj\Debug\net8.0-windows\refint\Kino.dll
+C:\Users\vitek\Desktop\Kino\Kino\obj\Debug\net8.0-windows\Kino.pdb
+C:\Users\vitek\Desktop\Kino\Kino\obj\Debug\net8.0-windows\Kino.genruntimeconfig.cache
+C:\Users\vitek\Desktop\Kino\Kino\obj\Debug\net8.0-windows\ref\Kino.dll
