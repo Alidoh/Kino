@@ -13,6 +13,7 @@ namespace Kino
             {
                 groupBoxes[i].Visible = false;
             }
+            seznam=[]
         }
         private List<Button> seznamtlacitek = new List<Button>();
         private void Form1_Load(object sender, EventArgs e)
@@ -27,8 +28,7 @@ namespace Kino
                 groupBoxes[i].Visible = false;
             }
             groupBox2.Visible = true;
-            Button clickedButton = sender as Button;
-            seznamtlacitek.Add(clickedButton);
+            string[] seznam=(button1.Text);
         }
         private void button2_Click(object sender, EventArgs e)
         {
